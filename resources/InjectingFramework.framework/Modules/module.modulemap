@@ -1,0 +1,6 @@
+framework module InjectingFramework {
+  umbrella header "InjectingFramework.h"
+
+  export *
+  module * { export * }
+}
